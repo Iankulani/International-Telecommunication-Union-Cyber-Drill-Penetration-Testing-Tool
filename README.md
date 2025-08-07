@@ -19,6 +19,13 @@ cd International-Telecommunication-Union-Cyber-Drill-Penetration-Testing-Tool
 
 python3 International-Telecommunication-Union-Cyber-Drill-Penetration-Testing-Tool.py
 
+**How to run ITU Cyber Drill Tool**
+
+python3 ITU-Cyber-Drill-Tool,py
+
+
+
+
 
 
 
